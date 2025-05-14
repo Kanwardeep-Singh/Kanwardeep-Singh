@@ -24,9 +24,9 @@ Welcome to my GitHub! I'm a passionate technologist and AI researcher with a div
 
 ## 🌟 Key Projects:
 
-**[TechScanAI](https://github.com/Kanwardeep-Singh/TechScanAI)** → AI-driven document search & summarization
-**[Synthera](https://github.com/Kanwardeep-Singh/Synthera)** → Synthetic data generator
-**[News_Rearch_Tool](https://github.com/Kanwardeep-Singh/News_Research_Tool)** → RAG based chatbot
+- **[TechScanAI](https://github.com/Kanwardeep-Singh/TechScanAI)** → AI-driven document search & summarization
+- **[Synthera](https://github.com/Kanwardeep-Singh/Synthera)** → Synthetic data generator
+- **[News_Rearch_Tool](https://github.com/Kanwardeep-Singh/News_Research_Tool)** → RAG based chatbot
 
 ## 🔍 Current Interests
 
