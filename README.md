@@ -12,6 +12,7 @@ Welcome to my GitHub! I'm a passionate technologist and AI researcher with a div
 ## 👨‍💻 About Me
 
 - 🧠 Master's in Data Science, majoring in Artificial Intelligence
+- 🔧 5+ years in Full-stack Development
 - 🔧 4+ years in Power Platform & Dynamics 365 CRM
 - 📡 Researching anomaly detection in smart grids using ICS protocols (MMS, etc.)
 - 🧪 Working on **Generative AI** for privacy-preserving synthetic data
@@ -20,7 +21,7 @@ Welcome to my GitHub! I'm a passionate technologist and AI researcher with a div
 ---
 
 ## 📂 Projects & Work:
-🚀 I work on **AI-powered document search, RAG-based knowledge retrieval, and intelligent automation**.
+🚀 I work on **AI-powered document search, RAG-based knowledge retrieval, and intelligent automation and AI-based anomaly detection in ICS protocols with Smart Grids**.
 
 ## 🌟 Key Projects:
 
